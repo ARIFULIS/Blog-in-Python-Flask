@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql+pymysql://root:@localhost/blogbd",
+    "prod_uri":"mysql+pymysql://root:@localhost/blogbd",
+    "fb_url":"https://facebook.com/blogbd",
+    "tw_url":"https://twitter.com/blogbd",
+    "gh_url": "https://github.com/blogbd",
+    "blog_name": "ErrorX-Space",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"admin@gmail.com",
+    "gmail-password":"112210",
+    "about_text": "Hi! My name is Ariful Islam and I'm Web Application Developer by Python programming language & it's framework Django & micro framework Flask. ",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"ariful",
+    "admin_password": "1234",
+    "upload_location":"C:\\Users\\DarkSpot\\PycharmProjects\\Blog in Python Flask\\static"
+
+  }
+
+}
